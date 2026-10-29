@@ -7,9 +7,7 @@ from scipy.stats import poisson
 # CONFIGURATION
 # ==========================================
 TELEGRAM_BOT_TOKEN = "9051396284:AAECqEQwtXqf98QXhxdzKkitjxs8izibEhU"
-TELEGRAM_CHANNEL_ID = (
-    "@your_actual_channel_username"  # <-- Replace with your Telegram Channel/Group username (Bot must be Admin here)
-)
+TELEGRAM_CHANNEL_ID = "@ProSportsSignals"
 
 API_KEY = "882086f3b19e6d34ffad78b83b33f28f"
 
